@@ -58,11 +58,29 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      支持下载
+
+      ①哨兵系列
+
+      ②MODIS系列
+
+      ③Landsat系列
+
+      ④葵花8/9
+
+      ⑤GOCI/GOCI-2
+
+      ⑥NASA气象数据
+
+      ⑦NASA官网其他公开数据
+
+      ⑧ERA5数据（降水、蒸散、土壤湿度等）
+
+      ⑨DEM，STRM，30米
+
+
+
     actions: []
     media:
       type: VideoBlock
