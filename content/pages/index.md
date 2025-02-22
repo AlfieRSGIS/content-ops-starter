@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 我们不生产数据，我们只是数据的搬运工
       color: text-primary
       type: Badge
     elementId: ''
