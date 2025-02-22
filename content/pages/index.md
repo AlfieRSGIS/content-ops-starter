@@ -52,7 +52,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 软件展示视频
       color: text-dark
       styles:
         self:
