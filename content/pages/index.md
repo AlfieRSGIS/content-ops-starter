@@ -57,7 +57,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: 软件支持用户自定义下载区域 只需输入经纬度坐标和影像时间范围
     text: |+
       支持下载
 
