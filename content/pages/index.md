@@ -67,7 +67,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /images/遥感数据下载软件-使用介绍与功能展示-店铺2-20240810.mp4
       autoplay: true
       loop: true
       muted: true
