@@ -7,7 +7,8 @@ sections:
       text: 遥感数据下载软件
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      支持下载①哨兵系列②MODIS系列③Landsat系列④葵花8/9⑤GOCI/GOCI-2⑥NASA气象数据⑦NASA官网其他公开数据⑧ERA5数据（降水、蒸散、土壤湿度等）
     text: |
       解决遥感人需要手动到官网下数据的痛点，尤其针对大量数据下载任务以及对遥感数据处理陌生的入门学者，我们提供专业的遥感数据下载软件。
     actions:
