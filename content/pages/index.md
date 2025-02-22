@@ -52,22 +52,40 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 软件展示视频
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 软件支持用户自定义下载区域 只需输入经纬度坐标和影像时间范围
+    text: |+
+      支持下载
+
+      ①哨兵系列
+
+      ②MODIS系列
+
+      ③Landsat系列
+
+      ④葵花8/9
+
+      ⑤GOCI/GOCI-2
+
+      ⑥NASA气象数据
+
+      ⑦NASA官网其他公开数据
+
+      ⑧ERA5数据（降水、蒸散、土壤湿度等）
+
+      ⑨DEM，STRM，30米
+
+
+
     actions: []
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/遥感数据下载软件-使用介绍与功能展示-店铺2-20240810.mp4
+      url: /images/software-video-20240810.mp4
       autoplay: true
       loop: true
       muted: true
@@ -91,26 +109,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
