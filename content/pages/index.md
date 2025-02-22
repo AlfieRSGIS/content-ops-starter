@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      解决遥感人需要手动到官网下数据的痛点，尤其针对大量数据下载任务以及对遥感数据处理陌生的入门学者，我们提供专业的遥感数据下载软件。
     actions:
       - label: 获取软件
         altText: ''
